@@ -45,3 +45,18 @@ Tujuan utama:
 * Tampilan utama Program Kalkulator
 <img width="584" height="455" alt="image" src="https://github.com/user-attachments/assets/f87d176e-cb90-4164-8e4a-64d0815e034e" />
 
+* Tampilan Hukum Ohm
+<img width="521" height="758" alt="image" src="https://github.com/user-attachments/assets/491e5db5-1e83-4a33-a11d-bfd7e90f3a7c" />
+
+* Tampilan Daya Listrik
+<img width="519" height="639" alt="image" src="https://github.com/user-attachments/assets/cb76a8c5-9f49-4516-a6ed-5ee1919b293f" />
+
+* Tampilan Resistor Seri
+<img width="528" height="691" alt="image" src="https://github.com/user-attachments/assets/3ae6d0ca-11b3-4342-93c4-9df797f54f9f" />
+
+* Tampilan Resistor Paralel
+
+
+
+
+
