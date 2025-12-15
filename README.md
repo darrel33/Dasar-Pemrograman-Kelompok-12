@@ -28,11 +28,11 @@ Tujuan utama:
 ---
 
 ## Fitur Program
-## Hukum Ohm
+Hukum Ohm
 - Menghitung tegangan, arus, atau hambatan berdasarkan Hukum Ohm.
-## Daya Listrik
+Daya Listrik
 - Menghitung daya listrik dari nilai tegangan dan arus.
-## Resistor Seri
+Resistor Seri
 - Menghitung total hambatan pada rangkaian resistor seri.
 ## Resistor Paralel
 - Menghitung total hambatan pada rangkaian resistor paralel.
