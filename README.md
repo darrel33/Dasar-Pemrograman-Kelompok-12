@@ -66,11 +66,14 @@ Tujuan utama:
 ### Tampilan Fitur Verifikasi Rangkaian
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/491e5db5-1e83-4a33-a11d-bfd7e90f3a7c" width="230" alt="Tampilan hukum Ohm">
-  <img src="https://github.com/user-attachments/assets/cb76a8c5-9f49-4516-a6ed-5ee1919b293f" width="230" alt="Tampilan daya listrik">
-  <img src="https://github.com/user-attachments/assets/3ae6d0ca-11b3-4342-93c4-9df797f54f9f" width="230" alt="Tampilan resistor seri">
-  <img src="https://github.com/user-attachments/assets/cf6ea659-53af-49c4-ae43-02197233c77e" width="230" alt="Tampilan resistor paralel">
+  <img src="URL_SCREENSHOT_HUKUM_OHM" width="230" alt="Tampilan hukum Ohm">
+  <img src="URL_SCREENSHOT_DAYA_LISTRIK" width="230" alt="Tampilan daya listrik">
+  <img src="URL_SCREENSHOT_RESISTOR_SERI" width="230" alt="Tampilan resistor seri">
+  <img src="URL_SCREENSHOT_RESISTOR_PARALEL" width="230" alt="Tampilan resistor paralel">
 </p>
+
+Gambar di atas menunjukkan tampilan fitur verifikasi rangkaian listrik, yang terdiri dari kalkulator Hukum Ohm, Daya Listrik, Resistor Seri, dan Resistor Paralel.
+
 
 
 
