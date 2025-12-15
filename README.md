@@ -142,6 +142,31 @@ Video demonstrasi dapat diakses melalui tautan berikut:
 
 Diharapkan rekaman ini dapat membantu dalam memahami proses kompilasi, eksekusi program, serta fungsi dari setiap fitur utama yang telah diimplementasikan.
 
+---
+
+## Pembagian Tugas Anggota
+
+Proyek ini dikerjakan secara berkelompok, dengan pembagian tugas sebagai berikut:
+
+- **Ahmad Yusuf Maulana Prayogi**  
+  - Merancang struktur menu utama program.  
+  - Mengimplementasikan dan menguji fitur verifikasi rangkaian listrik (Hukum Ohm, Daya Listrik, Resistor Seri, Resistor Paralel).
+
+- **Kaysan Dizhwar Arrazi**  
+  - Mengimplementasikan dan menguji fitur konversi bilangan (Desimal ke Biner/Oktal/Hex, Biner ke Desimal, Oktal ke Desimal, Hex ke Desimal).  
+  - Menyusun dokumentasi teknis terkait algoritma konversi dan pemrosesan string.
+
+- **Muhammad Darrell Maheswara**  
+  - Mengintegrasikan seluruh fungsi ke dalam program utama dan melakukan debugging.  
+  - Menyusun README, termasuk penjelasan program, cara menjalankan, tampilan program, dan rekaman demonstrasi.
+
+---
+
+## Penutup
+
+Program kalkulator berbasis console ini dibuat sebagai tugas Mata Kuliah **Dasar Pemrograman** untuk menerapkan konsep pemrograman terstruktur, penggunaan fungsi, dan pemrosesan data numerik. Melalui proyek ini, kelompok mempraktikkan pemecahan masalah menjadi modul-modul terpisah, pengelolaan input/output di terminal, serta dasar-dasar perhitungan rangkaian listrik dan konversi sistem bilangan.
+
+Harapannya, program ini dapat menjadi alat bantu sederhana dalam praktikum dasar elektronika dan sistem digital, sekaligus contoh awal pengembangan aplikasi C yang terstruktur dan mudah dikembangkan lebih lanjut.
 
 
 
