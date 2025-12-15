@@ -39,3 +39,9 @@ Tujuan utama:
 * Konversi bilangan biner ke desimal
 * Konversi bilangan oktal ke desimal
 * Konversi bilangan heksadesimal ke desimal
+
+
+## Tampilan
+* Tampilan utama Program Kalkulator
+<img width="584" height="455" alt="image" src="https://github.com/user-attachments/assets/f87d176e-cb90-4164-8e4a-64d0815e034e" />
+
