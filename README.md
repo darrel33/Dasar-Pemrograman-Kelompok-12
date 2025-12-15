@@ -28,20 +28,14 @@ Tujuan utama:
 ---
 
 ## Fitur Program
+## A. Verifikasi Rangkaian Listrik
+* Perhitungan menggunakan Hukum Ohm
+* Perhitungan daya listrik
+* Perhitungan hambatan rangkaian resistor seri
+* Perhitungan hambatan rangkaian resistor paralel
 
-Hukum Ohm
-- Menghitung tegangan, arus, atau hambatan berdasarkan Hukum Ohm.
-Daya Listrik
-- Menghitung daya listrik dari nilai tegangan dan arus.
-Resistor Seri
-- Menghitung total hambatan pada rangkaian resistor seri.
-Resistor Paralel
-- Menghitung total hambatan pada rangkaian resistor paralel.
-Desimal ke Biner / Oktal / Heksadesimal
-- Mengonversi bilangan desimal ke berbagai basis bilangan.
-Biner ke Desimal
-- Mengonversi bilangan biner menjadi bilangan desimal.
-Oktal ke Desimal
-- Mengonversi bilangan oktal menjadi bilangan desimal.
-Heksadesimal ke Desimal
-- Mengonversi bilangan heksadesimal menjadi bilangan desimal.
+## B. Utilitas Sistem Digital
+* Konversi bilangan desimal ke biner, oktal, dan heksadesimal
+* Konversi bilangan biner ke desimal
+* Konversi bilangan oktal ke desimal
+* Konversi bilangan heksadesimal ke desimal
