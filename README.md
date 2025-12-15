@@ -1,21 +1,24 @@
-# Dasar-Pemrograman-Kelompok-12
-Project-Dasprog
-Toolkit Asisten Lab Elektro
+# Kalkulator Dasar Pemrograman (C)
 
-Program Toolkit Asisten Lab Elektro merupakan program berbasis bahasa C yang dikembangkan untuk membantu proses perhitungan dasar dalam praktikum elektronika. Program ini mengintegrasikan berbagai kalkulator rangkaian listrik serta fitur konversi sistem bilangan ke dalam satu menu terpadu berbasis teks (console), sehingga mudah digunakan oleh pengguna.
+## Deskripsi Pemrograman
+Toolkit Asisten Lab Elektro adalah program berbasis bahasa C yang digunakan untuk membantu perhitungan dasar pada praktikum elektronika. Program ini menyediakan kalkulator rangkaian listrik (Hukum Ohm, daya listrik, resistor seri dan paralel) serta fitur konversi sistem bilangan dalam satu menu terpadu berbasis teks (console).
 
-Program ini berfungsi layaknya sebuah kalkulator dengan beragam fitur perhitungan, mulai dari kalkulator Hukum Ohm, perhitungan daya listrik, resistor seri, hingga resistor paralel. Selain itu, tersedia pula fitur konversi bilangan, khususnya untuk mengubah bilangan desimal ke berbagai basis bilangan lain sesuai kebutuhan pengguna.
+Program ini dikembangkan sebagai bagian dari tugas mata kuliah Dasar Pemrograman untuk melatih penerapan bahasa C sekaligus memahami konsep dasar elektronika dan sistem digital.
 
-👤 Author
+---
 
-Ahmad Yusuf Maulana Prayogi
-Kaysan Dizhwar Arrazi
-Muhammad Darrell Maheswara
+## 👤 Authors
+1. Ahmad Yusuf Maulana Prayogi
+2. Kaysan Dizhwar Arrazi
+3. Muhammad Darrell Maheswara
 
-🎯 Tujuan Program
+**Institusi** : Institut Teknologi Sepuluh Nopember (ITS)
+**Program Studi** : Teknik Telekomunikasi
 
+---
+
+## 🎯 Tujuan Program
 Program ini dibuat sebagai alat bantu perhitungan layaknya kalkulator, dengan fitur-fitur yang mendukung kebutuhan praktikum dan pembelajaran dasar elektronika serta sistem digital.
-
 Tujuan utama:
 1. Membantu perhitungan rangkaian listrik dasar
 2. Melatih penggunaan bahasa C (fungsi, percabangan, dan perulangan)
