@@ -69,7 +69,7 @@ Tujuan utama:
    Menghitung resistansi ekivalen rangkaian resistor seri.
 
    <p align="center">
-  <img src="https://github.com/user-attachments/assets/3ae6d0ca-11b3-4342-93c4-9df797f54f9f" width="528" alt="Tampilan resistor seri">
+     <img src="https://github.com/user-attachments/assets/3ae6d0ca-11b3-4342-93c4-9df797f54f9f" width="528" alt="Tampilan resistor seri">
    </p>
 
 4. Kalkulator Resistor Paralel  
