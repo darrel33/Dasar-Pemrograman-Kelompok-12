@@ -66,137 +66,77 @@ Tujuan utama:
 ### Tampilan Fitur Verifikasi Rangkaian
 
 <p align="center">
-  <img src="URL_SCREENSHOT_HUKUM_OHM" width="230" alt="Tampilan hukum Ohm">
-  <img src="URL_SCREENSHOT_DAYA_LISTRIK" width="230" alt="Tampilan daya listrik">
-  <img src="URL_SCREENSHOT_RESISTOR_SERI" width="230" alt="Tampilan resistor seri">
-  <img src="URL_SCREENSHOT_RESISTOR_PARALEL" width="230" alt="Tampilan resistor paralel">
+  <img src="https://github.com/user-attachments/assets/491e5db5-1e83-4a33-a11d-bfd7e90f3a7c" width="230" alt="Tampilan hukum Ohm">
+  <img src="https://github.com/user-attachments/assets/cb76a8c5-9f49-4516-a6ed-5ee1919b293f" width="230" alt="Tampilan daya listrik">
+  <img src="https://github.com/user-attachments/assets/3ae6d0ca-11b3-4342-93c4-9df797f54f9f" width="230" alt="Tampilan resistor seri">
+  <img src="https://github.com/user-attachments/assets/cf6ea659-53af-49c4-ae43-02197233c77e" width="230" alt="Tampilan resistor paralel">
 </p>
 
-Gambar di atas menunjukkan tampilan fitur verifikasi rangkaian listrik, yang terdiri dari kalkulator Hukum Ohm, Daya Listrik, Resistor Seri, dan Resistor Paralel.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-## A. Verifikasi Rangkaian Listrik
-
-1. Kalkulator Hukum Ohm  
-   Menghitung tegangan, arus, atau resistansi berdasarkan hukum Ohm.
-
-   <p align="center">
-     <img src="https://github.com/user-attachments/assets/491e5db5-1e83-4a33-a11d-bfd7e90f3a7c" width="521" alt="Tampilan hukum Ohm">
-   </p>
-
-2. Kalkulator Daya Listrik  
-   Menghitung daya listrik berdasarkan tegangan dan arus.
-
-   <p align="center">
-     <img src="https://github.com/user-attachments/assets/cb76a8c5-9f49-4516-a6ed-5ee1919b293f" width="519" alt="Tampilan daya listrik">
-   </p>
-
-3. Kalkulator Resistor Seri  
-   Menghitung resistansi ekivalen rangkaian resistor seri.
-
-   <p align="center">
-     <img src="https://github.com/user-attachments/assets/3ae6d0ca-11b3-4342-93c4-9df797f54f9f" width="528" alt="Tampilan resistor seri">
-   </p>
-
-4. Kalkulator Resistor Paralel  
-   Menghitung resistansi ekivalen rangkaian resistor paralel.
-
-   <p align="center">
-      <img width="515" height="628" alt="image" src="https://github.com/user-attachments/assets/cf6ea659-53af-49c4-ae43-02197233c77e" />
+Gambar di atas menunjukkan tampilan fitur verifikasi rangkaian listrik, yang terdiri dari kalkulator Hukum Ohm, Daya Listrik, Resistor Seri, dan Resistor Paralel.[web:87][web:88]
 
 ## B. Utilitas Sistem Digital
 
 5. Desimal ke Biner/Oktal/Hex  
    Mengubah bilangan desimal menjadi representasi biner, oktal, dan heksadesimal.
 
-   <p align="center">
-     <img src="URL_SCREENSHOT_DESIMAL_KE_BOKH" width="520" alt="Tampilan konversi desimal ke biner/oktal/hex">
-   </p>
-
 6. Biner ke Desimal  
    Mengubah bilangan biner menjadi bilangan desimal.
-
-   <p align="center">
-     <img src="URL_SCREENSHOT_BINER_KE_DESIMAL" width="520" alt="Tampilan konversi biner ke desimal">
-   </p>
 
 7. Oktal ke Desimal  
    Mengubah bilangan oktal menjadi bilangan desimal.
 
-   <p align="center">
-     <img src="URL_SCREENSHOT_OKTAL_KE_DESIMAL" width="520" alt="Tampilan konversi oktal ke desimal">
-   </p>
-
 8. Hex ke Desimal  
    Mengubah bilangan heksadesimal menjadi bilangan desimal.
 
-   <p align="center">
-     <img src="URL_SCREENSHOT_HEX_KE_DESIMAL" width="520" alt="Tampilan konversi hex ke desimal">
-   </p>
+### Tampilan Fitur Utilitas Sistem Digital
 
-
-### Tampilan Hukum Ohm
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/491e5db5-1e83-4a33-a11d-bfd7e90f3a7c" width="521" alt="Tampilan hukum Ohm">
+  <img src="URL_SCREENSHOT_DESIMAL_KE_BOKH" width="230" alt="Tampilan desimal ke biner/oktal/hex">
+  <img src="URL_SCREENSHOT_BINER_KE_DESIMAL" width="230" alt="Tampilan biner ke desimal">
+  <img src="URL_SCREENSHOT_OKTAL_KE_DESIMAL" width="230" alt="Tampilan oktal ke desimal">
+  <img src="URL_SCREENSHOT_HEX_KE_DESIMAL" width="230" alt="Tampilan hex ke desimal">
 </p>
 
-### Tampilan Daya Listrik
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/cb76a8c5-9f49-4516-a6ed-5ee1919b293f" width="519" alt="Tampilan daya listrik">
-</p>
+Gambar di atas menunjukkan tampilan fitur utilitas sistem digital, yang terdiri dari konversi Desimal ke Biner/Oktal/Hex, Biner ke Desimal, Oktal ke Desimal, dan Hex ke Desimal.[web:42]
 
-### Tampilan Resistor Seri
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/3ae6d0ca-11b3-4342-93c4-9df797f54f9f" width="528" alt="Tampilan resistor seri">
-</p>
 
-### Tampilan Resistor Paralel
-<p align="center">
-  <img width="515" height="628" alt="image" src="https://github.com/user-attachments/assets/cf6ea659-53af-49c4-ae43-02197233c77e" />
-</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
