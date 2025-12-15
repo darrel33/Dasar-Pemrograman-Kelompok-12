@@ -40,11 +40,9 @@ Tujuan utama:
 * Konversi bilangan oktal ke desimal
 * Konversi bilangan heksadesimal ke desimal
 
+---
 
 ## Tampilan
-
-## Tampilan
-
 ### Tampilan Utama Program Kalkulator
 <p align="center">
   <img src="https://github.com/user-attachments/assets/f87d176e-cb90-4164-8e4a-64d0815e034e" width="584" alt="Tampilan utama program kalkulator">
