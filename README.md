@@ -24,3 +24,27 @@ Tujuan utama:
 2. Melatih penggunaan bahasa C (fungsi, percabangan, dan perulangan)
 3. Menerapkan konsep Hukum Ohm dan daya listrik
 4. Memahami konversi sistem bilangan digital
+
+---
+
+## Fitur Program
+## Hukum Ohm
+- Menghitung tegangan, arus, atau hambatan berdasarkan Hukum Ohm.
+## Daya Listrik
+- Menghitung daya listrik dari nilai tegangan dan arus.
+## Resistor Seri
+- Menghitung total hambatan pada rangkaian resistor seri.
+## Resistor Paralel
+- Menghitung total hambatan pada rangkaian resistor paralel.
+
+Desimal ke Biner / Oktal / Heksadesimal
+Mengonversi bilangan desimal ke berbagai basis bilangan.
+
+Biner ke Desimal
+Mengonversi bilangan biner menjadi bilangan desimal.
+
+Oktal ke Desimal
+Mengonversi bilangan oktal menjadi bilangan desimal.
+
+Heksadesimal ke Desimal
+Mengonversi bilangan heksadesimal menjadi bilangan desimal.
