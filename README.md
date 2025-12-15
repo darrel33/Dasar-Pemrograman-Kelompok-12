@@ -42,8 +42,11 @@ Tujuan utama:
 
 
 ## Tampilan
-* Tampilan utama Program Kalkulator
-<img width="584" height="455" alt="image" src="https://github.com/user-attachments/assets/f87d176e-cb90-4164-8e4a-64d0815e034e" />
+
+### Tampilan Utama Program Kalkulator
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/f87d176e-cb90-4164-8e4a-64d0815e034e" width="584" alt="Tampilan utama program kalkulator">
+</p>
 
 * Tampilan Hukum Ohm
 <img width="521" height="758" alt="image" src="https://github.com/user-attachments/assets/491e5db5-1e83-4a33-a11d-bfd7e90f3a7c" />
