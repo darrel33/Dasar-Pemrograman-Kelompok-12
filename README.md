@@ -104,7 +104,7 @@ Gambar di atas menunjukkan tampilan fitur utilitas sistem digital, yang terdiri 
 
 ---
 
-## Penjelasan Umum Program
+## 🧾 Penjelasan Umum Program
 
 Program ini merupakan aplikasi kalkulator berbasis console yang bersifat menu-driven, di mana pengguna memilih fitur melalui menu utama kemudian program memanggil fungsi yang sesuai dengan pilihan tersebut. Seluruh fitur digabung dalam satu berkas C dengan pendekatan pemrograman terstruktur.
 
@@ -118,7 +118,7 @@ Fungsi `main()` berperan sebagai pengendali utama program. Di dalamnya terdapat 
 
 ---
 
-## Cara Menjalankan Program
+## ▶️ Cara Menjalankan Program
 
 1. Pastikan compiler C telah terpasang (contoh: GCC).
 2. Simpan file program dengan ekstensi `.c`.
@@ -133,18 +133,18 @@ Fungsi `main()` berperan sebagai pengendali utama program. Di dalamnya terdapat 
 
 ---
 
-## Rekaman Cara Kerja Program
+## 🎥 Rekaman Cara Kerja Program
 Sebagai pendukung pemahaman terhadap alur kerja program, disertakan rekaman video yang menampilkan proses penggunaan aplikasi kalkulator ini. Rekaman tersebut memperlihatkan tahapan menjalankan program melalui terminal, pemilihan menu yang tersedia, serta contoh perhitungan dan konversi bilangan yang dihasilkan oleh program.
 
 Video demonstrasi dapat diakses melalui tautan berikut:
 
-- [Video Demonstrasi Program Kalkulator](https://drive.google.com/drive/folders/1xqCBjjQ2f2Ln2nbfp8k0rDkTYHExV893?usp=sharing)
+- ▶️ [Video Demonstrasi Program Kalkulator](https://drive.google.com/drive/folders/1xqCBjjQ2f2Ln2nbfp8k0rDkTYHExV893?usp=sharing)
 
 Diharapkan rekaman ini dapat membantu dalam memahami proses kompilasi, eksekusi program, serta fungsi dari setiap fitur utama yang telah diimplementasikan.
 
 ---
 
-## Pembagian Tugas Anggota
+## 👥 Pembagian Tugas Anggota
 
 Proyek ini dikerjakan secara berkelompok, dengan pembagian tugas sebagai berikut:
 
@@ -162,7 +162,7 @@ Proyek ini dikerjakan secara berkelompok, dengan pembagian tugas sebagai berikut
 
 ---
 
-## Penutup
+## 📌 Penutup
 
 Program kalkulator berbasis console ini dibuat sebagai tugas Mata Kuliah **Dasar Pemrograman** untuk menerapkan konsep pemrograman terstruktur, penggunaan fungsi, dan pemrosesan data numerik. Melalui proyek ini, kelompok mempraktikkan pemecahan masalah menjadi modul-modul terpisah, pengelolaan input/output di terminal, serta dasar-dasar perhitungan rangkaian listrik dan konversi sistem bilangan.
 
