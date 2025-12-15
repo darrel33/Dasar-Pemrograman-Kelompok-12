@@ -49,13 +49,27 @@ Tujuan utama:
   <img src="https://github.com/user-attachments/assets/f87d176e-cb90-4164-8e4a-64d0815e034e" width="584" alt="Tampilan utama program kalkulator">
 </p>
 
-### Tampilan Verifikasi Rangkaian (Semua)
+## A. Verifikasi Rangkaian Listrik
+
+1. Kalkulator Hukum Ohm  
+   Menghitung tegangan, arus, atau resistansi berdasarkan hukum Ohm.
+
+2. Kalkulator Daya Listrik  
+   Menghitung daya listrik berdasarkan tegangan dan arus.
+
+3. Kalkulator Resistor Seri  
+   Menghitung resistansi ekivalen rangkaian resistor seri.
+
+4. Kalkulator Resistor Paralel  
+   Menghitung resistansi ekivalen rangkaian resistor paralel.
+
+### Tampilan Fitur Verifikasi Rangkaian
 
 <p align="center">
-  <img src="URL_SCREENSHOT_HUKUM_OHM" width="230" alt="Hukum Ohm">
-  <img src="URL_SCREENSHOT_DAYA_LISTRIK" width="230" alt="Daya Listrik">
-  <img src="URL_SCREENSHOT_RESISTOR_SERI" width="230" alt="Resistor Seri">
-  <img src="URL_SCREENSHOT_RESISTOR_PARALEL" width="230" alt="Resistor Paralel">
+  <img src="https://github.com/user-attachments/assets/491e5db5-1e83-4a33-a11d-bfd7e90f3a7c" width="230" alt="Tampilan hukum Ohm">
+  <img src="https://github.com/user-attachments/assets/cb76a8c5-9f49-4516-a6ed-5ee1919b293f" width="230" alt="Tampilan daya listrik">
+  <img src="https://github.com/user-attachments/assets/3ae6d0ca-11b3-4342-93c4-9df797f54f9f" width="230" alt="Tampilan resistor seri">
+  <img src="https://github.com/user-attachments/assets/cf6ea659-53af-49c4-ae43-02197233c77e" width="230" alt="Tampilan resistor paralel">
 </p>
 
 
