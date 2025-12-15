@@ -55,7 +55,7 @@ Tujuan utama:
    Menghitung tegangan, arus, atau resistansi berdasarkan hukum Ohm.
 
    <p align="center">
-      <img src="https://github.com/user-attachments/assets/491e5db5-1e83-4a33-a11d-bfd7e90f3a7c" width="528" alt="Tampilan hukum Ohm>
+  <img src="https://github.com/user-attachments/assets/491e5db5-1e83-4a33-a11d-bfd7e90f3a7c" width="521" alt="Tampilan hukum Ohm">
    </p>
 
 2. Kalkulator Daya Listrik  
